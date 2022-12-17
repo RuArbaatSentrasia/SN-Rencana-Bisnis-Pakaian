@@ -2,7 +2,8 @@ RENCANA KUALITAS PAKAIAN
 - Bahan Pakaian
   1. Sutra
   2. Wol
+  3. Katun
 - Motif dan Warna pada Pakaian
-  1. Stripes atau motif garis
-  2. Checks atau motif gingham (kotak-kotak)
+  1. Checks atau motif gingham (kotak-kotak)
+  2. Motif Batik
 - Bentuk Jahitan
